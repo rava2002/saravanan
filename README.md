@@ -1,1 +1,1 @@
-# saravanan
+Developed a GPA & CGPA calculator website tailored for Women's Engineering College, Puducherry, affiliated with Puducherry Technological University. This accessible tool helps Computer Science students input course details to calculate their GPA, CGPA, percentage, and class status instantly, making academic performance tracking simple and efficient. It empowers students to monitor their progress conveniently and accurately throughout their academic journey
