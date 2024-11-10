@@ -224,18 +224,16 @@
     <h3>Women's Engineering College - CGPA, GPA, Percentage, Calculator
      for Computer Science Students     </h3>
 	<h3>Track your academic progress effortlessly.</h3>
-     <div>
-        <label>
-            Student Name: 
-            <input type="text" id="studentName" placeholder="Enter student name">
-        </label>
-    </div>
-
-    <div>
-        <label>
-            <input type="checkbox" id="firstAttempt"> Passed all courses in the first attempt
-        </label>
-    </div>
+    <table>
+    <tr>
+        <td><label for="studentName">Student Name:</label></td>
+        <td><input type="text" id="studentName" placeholder="Enter student name"></td>
+    </tr>
+    <tr>
+        <td><label for="firstAttempt">Passed all courses in the first attempt:</label></td>
+        <td><input type="checkbox" id="firstAttempt"></td>
+    </tr>
+</table>
 
     <div id="semesterContainer">
         <!-- Semesters will be dynamically added here -->
